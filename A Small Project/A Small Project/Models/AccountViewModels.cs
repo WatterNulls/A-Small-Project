@@ -53,6 +53,7 @@ namespace A_Small_Project.Models
 
     public class RegisterViewModel
     {
+                
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]

@@ -1,0 +1,44 @@
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\A Small Project.Tests.dll.config
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\A Small Project.Tests.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\A Small Project.Tests.pdb
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\A Small Project.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Helpers.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Mvc.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Razor.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.WebPages.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Optimization.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Owin.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\EntityFramework.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Security.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\A Small Project.pdb
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Helpers.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Mvc.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Razor.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.WebPages.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\System.Web.Optimization.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\EntityFramework.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Security.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\obj\Debug\A Small Project.Tests.csprojResolveAssemblyReference.cache
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\obj\Debug\A Small Project.Tests.dll
+H:\GitHub\Projetos\ASP.NET C#\A-Small-Project\A Small Project\A Small Project.Tests\obj\Debug\A Small Project.Tests.pdb
